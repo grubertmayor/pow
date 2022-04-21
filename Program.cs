@@ -18,7 +18,7 @@ namespace PoW
 
             var block = new Block
             {
-                Data = "hello world",
+                Data = "mLnU8PfXPnpjLr6W7YKK",
                 Hash = string.Empty,
                 Nonce = 0,
             };
